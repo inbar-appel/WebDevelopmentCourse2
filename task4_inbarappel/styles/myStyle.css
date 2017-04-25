@@ -1,0 +1,111 @@
+@import url(http://fonts.googleapis.com/earlyaccess/opensanshebrew.css);
+
+body {
+    direction: rtl;
+    background-image: url('rsz_615_346_hitacademy_615_346.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Open Sans Hebrew', sans-serif;
+}
+
+div#container {
+    width: 960px;
+    margin-left: 200px;
+    margin-right: 200px;
+      height: 800px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+     font-size:20px;
+    color:black;
+    background:none;
+    
+    
+
+
+}
+
+#container {
+    height: 500px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+
+
+.head {
+    margin-top: 15px;
+    padding-bottom: 15px;
+    background-color: white;
+    border-radius: 5px 5px;
+    margin-bottom: 15px;
+}
+
+
+header > h1 {
+    font-size: 50px;
+        margin-top: 2px;
+}
+
+
+label {
+    font-size: 16px;
+    color: black;
+    font-weight: normal;
+}
+
+h2 {
+    margin-bottom: 10px;
+    font-size: 24pt;
+    margin-top: 5px;
+}
+
+h3 {
+    margin-top: 0px;
+}
+
+hr {
+    display: block;
+    margin-top: 55px;
+    margin-bottom: 55px;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    height: 2px;
+}
+
+
+
+
+.form-control:focus {
+  border-color: #b1d493;
+  outline: 0;
+  -webkit-box-shadow: inset 3px 3px 3px rgba(0,0,0,.075), 8px 8px 8px #b1d493;
+          box-shadow: inset 3px 3px 3px rgba(0,0,0,.075), 8px 8px 8px #b1d493;
+
+}
+
+
+#box{
+    background-color:lightgreen;
+    border-radius:2%;
+    margin-bottom:50px;
+    margin-left:280px;
+    margin-right:280px;
+    margin-top:50px;
+    font-size:50px;
+    color:black;
+    padding-top: 10px;
+    padding-bottom: 30px;
+
+}
+
+form{
+    padding:100px;
+}
+
+#contacthit{
+    background-color:#F8F8F8;
+}
+
+#feedback{
+    margin-top:5px;
+}
